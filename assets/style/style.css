@@ -1,0 +1,21 @@
+/* BASIC STYLES HERE */
+body {
+  background-color: #f1faee;
+  font-family: 'Lobster', cursive;
+}
+
+.bg-head-foot{
+  background-color: #1d3557;
+}
+
+.bg-main{
+  background-color: #457b9d;
+}
+
+.bg-reserve{
+  background-color:#a8dadc;
+}
+
+.text-reserve{
+  font-family: 'Roboto Mono', monospace;;
+}
